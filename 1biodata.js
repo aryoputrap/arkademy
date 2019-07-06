@@ -2,7 +2,7 @@ function myBio(biodata){
   let mybiodata = {
     "name": 'Aryo Putra PUrwanto',
     "age": 24,
-    "address":'Jl.Raya Bogor KM 46, Cibinong, Kab.Bogor'
+    "address":'Jl.Raya Bogor KM 46, Cibinong, Kab.Bogor',
     "hobbies": ["Futsal", "Jogging", "Game", "Traveling","Koding"],
     "is_married": false,
     "list_school":[
