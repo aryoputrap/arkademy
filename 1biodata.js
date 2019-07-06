@@ -1,5 +1,5 @@
-function myBiodata(biodata){
-  let biodataObj = {
+function myBio(biodata){
+  let mybiodata = {
     "name": 'Aryo Putra PUrwanto',
     "age": 24,
     "address":'Jl.Raya Bogor KM 46, Cibinong, Kab.Bogor'
@@ -8,7 +8,7 @@ function myBiodata(biodata){
     "list_school":[
        {
       "university": 'ITB',
-      "year_in":2012, 
+      "year_in":2012,
       "year_out" : 2016,
       "major" : 'Biology'
        }],
@@ -21,6 +21,6 @@ function myBiodata(biodata){
     ]
   }
 
-  return biodataObj
+  return mybiodata
 }
-console.log(myBiodata('ari'));
+console.log(myBio('aryo'));
