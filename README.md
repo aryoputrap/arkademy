@@ -8,5 +8,5 @@ Atom
 Langkah-langkah Penggunaan:
 
 Install atom
-Cek kodingan
+Cek kodingan dapat menggunakan https://es6console.com/ 
 Clone: https://github.com/aryoputrap/arkademy
